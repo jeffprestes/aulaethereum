@@ -1,0 +1,12 @@
+{
+    "description": "Você participou da aula de Jeff Prestes sobre Ethereum no LIFT, com a carga horária de 3 horas, no dia 28 de julho de 2022.", 
+    "external_url": "https://jeffprestes.github.io/aulaethereum/certificado.html", 
+    "image": "https://jeffprestes.github.io/aulaethereum/certificado.png", 
+    "name": "Certificado Aula Ethereum LIFT Learning DeFi",
+    "attributes": [
+        {
+            "trait_type": "Author", 
+            "value": "Jeff Prestes"
+          }
+     ] 
+  }
